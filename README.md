@@ -2,6 +2,8 @@
 
 A full-stack application built with Go (backend) and React (frontend) that displays and manages user data from an Excel file, featuring MFA status filtering and password/access monitoring.
 
+![User Management Dashboard](UserManagementDashboard.png)
+
 ## Tech Stack
 
 ### Backend
@@ -19,8 +21,8 @@ A full-stack application built with Go (backend) and React (frontend) that displ
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone git@github.com:ParthShahAtStonyBrook/TestAssignemnt.git
+   cd TestAssignment
    ```
 
 2. Backend Setup:
