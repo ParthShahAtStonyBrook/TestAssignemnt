@@ -21,7 +21,7 @@ A full-stack application built with Go (backend) and React (frontend) that displ
 
 1. Clone the repository:
    ```bash
-   git clone git@github.com:ParthShahAtStonyBrook/TestAssignemnt.git
+   git clone git@github.com:ParthShahAtStonyBrook/TestAssignment.git
    cd TestAssignment
    ```
 
