@@ -27,7 +27,6 @@ A full-stack application built with Go (backend) and React (frontend) that displ
 
 2. Backend Setup:
    ```bash
-   # Install Go dependencies
    go mod download
    ```
 
